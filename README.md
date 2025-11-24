@@ -6,6 +6,10 @@
 
 <h3 align="center"><b>Exploring QA & DevOps | Always learning</b></h3>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
 Curious about software quality, usability, and how things work behind the scenes.
 
 Currently studying **ISTQB Foundation Level** and exploring DevOps tools.
