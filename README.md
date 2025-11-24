@@ -1,13 +1,17 @@
-<picture> <img align="right" src="avatar.png" alt="Profile picture" width = 180px></picture>
 
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Raquel ✌️</h1></summary>
   </ul>
 </div>
 
-<h3 align="left"><b>Exploring QA & DevOps | Always learning</b></h3>
+<div id="user-content-toc">
+  <ul align="center">
+    <picture> <img src="avatar.png" alt="Profile picture" width = 100px></picture>
+  </ul>
+</div>
 
+<h3 align="center"><b>Exploring QA & DevOps | Always learning</b></h3>
 
 <br><br>
 
