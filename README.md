@@ -1,4 +1,4 @@
-<picture> <img align="right" src="avatar.png" alt="Profile picture" width = 170px></picture>
+<picture> <img align="right" src="avatar-profile.png" alt="Profile picture" width = 170px></picture>
 
 <div id="user-content-toc">
   <ul align="left">
