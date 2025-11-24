@@ -1,17 +1,12 @@
+<picture> <img align="right" src="avatar.png" alt="Profile picture" width = 170px></picture>
 
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h1 style="display: inline-block">Hi, I'm Raquel ✌️</h1></summary>
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <picture> <img src="avatar.png" alt="Profile picture" width = 100px></picture>
-  </ul>
-</div>
-
-<h3 align="center"><b>Exploring QA & DevOps | Always learning</b></h3>
+<h3 align="left"><b>Exploring QA & DevOps | Always learning</b></h3>
 
 <br><br>
 
@@ -20,6 +15,13 @@
 🌱 Sharing my learning journey and experiments in tech <br>
 💭 Currently studying **ISTQB Foundation Level** and exploring DevOps tools <br>
 
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Tools</h1></summary>
+  </ul>
+</div>
+
+![Static Badge](https://img.shields.io/badge/Figma-007FFF?style=flat&logo=figma&logoColor=white)
 
 <div id="user-content-toc">
   <ul align="left">
