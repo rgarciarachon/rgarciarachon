@@ -11,16 +11,11 @@
 
 <br><br>
 
-Curious about software quality, usability, and how things work behind the scenes.
+👩🏻‍💻 Exploring QA & DevOps while learning ISTQB Foundation Level <br>
+💡 Curious about software quality, usability, and how things work behind the scenes <br>
+🌱 Sharing my learning journey and experiments in tech <br>
+💭 Currently studying **ISTQB Foundation Level** and exploring DevOps tools <br>
 
-Currently studying **ISTQB Foundation Level** and exploring DevOps tools.
-
-
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">About me</h1></summary>
-  </ul>
-</div>
 
 <div id="user-content-toc">
   <ul align="left">
