@@ -1,12 +1,15 @@
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hey! Raquel on board ✌️</h1></summary>
-  </ul>
+<div align="right">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Pacific+ocean&size=15&duration=5000&pause=999999999&repeat=false&color=E5E5E5&random=false&width=535&lines=You+don't+need+to+carry+the+whole+story,+your+part+still+matters."
+      alt="Typing SVG"
+    />
+  </a>
 </div>
 
-**``Exploring QA & DevOps | Always learning``**
+# Hey! Raquel on board ✌️
 
-*You don’t need to carry the whole story, your part still matters.*
+**``Exploring QA & DevOps | Always learning``**
 
 I'm a curious soul exploring the worlds of QA & DevOps while studying [ISTQB Foundation Level](https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/). 
 I started translating technologies, then that curiosity led me to graphic design and UX/UI, where I explored and learned how creativity shapes functionality.
@@ -21,12 +24,6 @@ My drive to discover and keep growing is what keeps me moving forward ✨.
   </a>
   <a href="mailto:rgarciarachon@gmail.com">
     <img alt="mail" title="Contact me" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rgarciarachon?tab=followers">
-    <img alt="follow" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/Follow-55960?style=for-the-badge&logo=person-add&logoColor=white"/>
-  </a>
-  <a href="">
-    <img alt="cv" title="See my cv" src="https://img.shields.io/badge/CV-%23E1AD0E?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
