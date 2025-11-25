@@ -1,12 +1,3 @@
-<div align="right">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Pacific+ocean&size=15&duration=5000&pause=999999999&repeat=false&color=E5E5E5&random=false&width=535&lines=You+don't+need+to+carry+the+whole+story,+your+part+still+matters."
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
 # Hey! Raquel on board ✌️
 
 **``Exploring QA & DevOps | Always learning``**
@@ -27,6 +18,9 @@ My drive to discover and keep growing is what keeps me moving forward ✨.
   </a>
 </p>
 
+<div align="right">
+  <em>  You don’t need to carry the whole story, your part still matters. 😉</em>
+</div>
 
 ---
 
