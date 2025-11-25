@@ -9,14 +9,12 @@ Along the way, I share my journey and little experiments in tech.
 
 My drive to discover and keep growing is what keeps me moving forward ✨.
 
-<p align="left">
   <a href="https://www.linkedin.com/in/raquel-garcia-rachon/">
     <img alt="follow" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rgarciarachon@gmail.com">
     <img alt="mail" title="Contact me" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
 
 <div align="right">
   <em>  You don’t need to carry the whole story, your part still matters. 😉</em>
