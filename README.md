@@ -1,19 +1,37 @@
-<picture> <img align="right" src="avatar-profile.png" alt="Profile picture" width = 170px></picture>
-
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi, I'm Raquel ✌️</h1></summary>
+    <summary><h1 style="display: inline-block">Hey! Raquel on board ✌️</h1></summary>
   </ul>
 </div>
 
-<h3 align="left"><b>Exploring QA & DevOps | Always learning</b></h3>
+**``Exploring QA & DevOps | Always learning``**
 
-<br><br>
+*You don’t need to carry the whole story, your part still matters.*
 
-👩🏻‍💻 Exploring QA & DevOps while learning ISTQB Foundation Level <br>
-💡 Curious about software quality, usability, and how things work behind the scenes <br>
-🌱 Sharing my learning journey and experiments in tech <br>
-💭 Currently studying **ISTQB Foundation Level** and exploring DevOps tools <br>
+I'm a curious soul exploring the worlds of QA & DevOps while studying [ISTQB Foundation Level](https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/). 
+I started translating technologies, then that curiosity led me to graphic design and UX/UI, where I explored and learned how creativity shapes functionality.
+I love understanding how things work behind the scenes, ensuring technology works well and delivers real value.
+Along the way, I share my journey and little experiments in tech.
+
+My drive to discover and keep growing is what keeps me moving forward ✨.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raquel-garcia-rachon/">
+    <img alt="follow" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rgarciarachon@gmail.com">
+    <img alt="mail" title="Contact me" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rgarciarachon?tab=followers">
+    <img alt="follow" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/Follow-55960?style=for-the-badge&logo=person-add&logoColor=white"/>
+  </a>
+  <a href="">
+    <img alt="cv" title="See my cv" src="https://img.shields.io/badge/CV-%23E1AD0E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
+---
 
 <div id="user-content-toc">
   <ul align="left">
@@ -38,16 +56,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-
-
-
-
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Contact</h1></summary>
-  </ul>
-</div>
-
-[LinkedIn](https://www.linkedin.com/in/raquel-garcia-rachon/) | [Email](mailto:rgarciarachon@gmail.com)
-
-#### <p align="center"><b>Made with ✨ by Raquel<br>From Huelva, always exploring</b></p>
+#### <p align="center"><b>Made with ✨ by Raquel</p>
