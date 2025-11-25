@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="https://www.linkedin.com/in/raquel-garcia-rachon/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-236ad3?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rgarciarachon@gmail.com">
+    <img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 # Hey! Raquel on board ✌️
   
 **``Exploring QA & DevOps | Always learning``**
@@ -9,40 +18,52 @@ Along the way, I share my journey and little experiments in tech.
 
 My drive to discover and keep growing is what keeps me moving forward ✨.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-garcia-rachon/)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgarciarachon@gmail.com)
+<br>
+
+⚡ Currently learning...
+
+- Types of software testing
+- Python
+
 
 <br>
 
 ## >_ Skills
 
+<p align="right">
+🟦 <b>Basic</b>&emsp; 🟨 <b>Improving</b>&emsp; 🟩 <b>Proficient</b>
+</p>
+
 **Design**
 
-![Figma](https://img.shields.io/badge/Figma-874fff?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=figma&logoColor=e67e22)
+![Illustrator](https://custom-icon-badges.demolab.com/badge/Illustrator-FF9A00?logo=https://raw.githubusercontent.com/tu-usuario/tu-repo/main/illustrator.svg&style=flat-square)
+![Photoshop](https://custom-icon-badges.demolab.com/badge/Photoshop-31A8FF?logo=https://raw.githubusercontent.com/tu-usuario/tu-repo/main/photoshop.svg&style=flat-square)
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-e67e22?style=flat-square&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-e67e22?style=flat-square&logo=adobe-illustrator)
 
 **Management**
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-05122A?style=flat-square&logo=trello&logoColor=2ecc71)
+![Notion](https://img.shields.io/badge/Notion-05122A?style=flat-square&logo=notion&logoColor=2ecc71)
 
 **Tech**
 
-![Python](https://img.shields.io/badge/Python-%231D9FD7?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat-square&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GithubActions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%23844FBA?style=flat-square&logo=terraform&logoColor=white)
-![IntellijIdea](https://img.shields.io/badge/IntelliJ%20IDEA-FE2857?style=flat-square&logo=intellijidea&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0085D0?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python&logoColor=1D63ED)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=java&logoColor=e67e22)
+![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat-square&logo=markdown&logoColor=2ecc71)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat-square&logo=git&logoColor=e67e22)
+![GithubActions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat-square&logo=githubactions&logoColor=e67e22)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=docker&logoColor=e67e22)
+![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat-square&logo=terraform&logoColor=e67e22)
 
 #
 
 <div align="right">
   <em>  You don’t need to carry the whole story, your part still matters. 😉</em>
 </div>
+
+<br>
 
 #### <p align="center"><b>Made with ✨ by Raquel</p>
