@@ -20,15 +20,9 @@ My drive to discover and keep growing is what keeps me moving forward ✨.
 
 <br>
 
-⚡ Currently learning...
+## >_ Current skills
 
-- Types of software testing
-- Python
-
-
-<br>
-
-## >_ Skills
+Here's a snapshot of the technologies I'm learning and getting better at:
 
 ![Figma](https://img.shields.io/badge/Figma-874fff?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
@@ -37,15 +31,12 @@ My drive to discover and keep growing is what keeps me moving forward ✨.
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-%231D9FD7?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![IntellijIdea](https://img.shields.io/badge/IntelliJ%20IDEA-FE2857?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0085D0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 #
 
